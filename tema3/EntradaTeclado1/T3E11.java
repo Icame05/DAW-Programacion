@@ -1,4 +1,4 @@
-package tema3;
+package tema3.EntradaTeclado1;
 
 import java.util.Locale;
 import java.util.Scanner;
