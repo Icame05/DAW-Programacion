@@ -11,7 +11,7 @@ public class T5E9 {
         int aux = 0;
         try {
             // Lee número de teclado
-            System.out.println("\033[1m;N PRIMEROS NÚMEROS DE LA SERIE FIBONACCI\033[0m");
+            System.out.println("\033[1mN PRIMEROS NÚMEROS DE LA SERIE FIBONACCI\033[0m");
             System.out.print("Introduzca un número: ");
             numero = sc.nextInt();
 
